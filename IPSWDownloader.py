@@ -86,7 +86,7 @@ data = json.load(json_obj)
 device = ""
 print ("###### IPSWDownloader v0.1 ######")
 print ("###### Sviluppato da Dani Tox ######")
-print ("###### Stai utilizzando questo programma su" + sistemaOperativo + " ######")
+print ("###### Stai utilizzando questo programma su " + sistemaOperativo + " ######")
 time.sleep(1.4)
 print ("Thanks to ipsw.me for the API/Database")
 time.sleep(3)
